@@ -1,6 +1,6 @@
 # Automation
 This program utilizes browser automation (Selenium) and web scraping procedures. It uses random time intervals in-between actions to appear as human activity. 
-Creates text files to keep record program's of activities as well as printing each step that it takes in the proccess to the console.
+Creates a text file to keep record of the program's of activities and collected data and prints its progress with this data to the console.
 
 Simply enter your username, password and a target account.
 
